@@ -1,0 +1,24 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slonic32/goit-advancedjs-hw-05.git"
+  },
+  "keywords": [],
+  "author": "Artem Hordiyevskyy <hordiyevskyy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slonic32/goit-advancedjs-hw-05/issues"
+  },
+  "homepage": "https://github.com/slonic32/goit-advancedjs-hw-05#readme",
+  "description": "",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  }
+}
